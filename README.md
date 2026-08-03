@@ -1,2 +1,2 @@
 # wigleys-accounting
-Website under construction, redirect to github page.
+Website under construction. Located at: https://www.wigleysaccounting.com
